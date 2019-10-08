@@ -21,7 +21,7 @@ import javafx.util.Duration;
 public class JuegoBola extends Application {
 
     public static double ballSpeed = 1;
-    public static double ballSpeed2 = 2;
+    public static double ballSpeed2 = 1;
 
     @Override
     public void start(Stage primaryStage) {
